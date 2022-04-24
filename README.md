@@ -1,2 +1,2 @@
-# Solutions to Fundamentals of Data Structures and Algorithms assignments
-Each assignment folder countains my solution to the prompt along with any input / output text files. Each solution is available in a Jupyter notebook for ease of use.
+# Solutions to Fundamentals of Data Structures and Algorithms Assignments
+Each folder contains my solution to the assignment prompt. The "input" text files contain example inputs, and the "output" text files have the corresponding outputs. Each solution is available in a Jupyter notebook for ease of use.
